@@ -1,4 +1,12 @@
-Lab 1
+Vagrant for Introduction to HCI
 =====
 
-This lab introduces you to the serving of static content using node.js and Express. We'll also push and pull from GitHub, and publish to Heroku.
+Includes setup files to create an Ubuntu (Precise Pangolin) machine.
+
+Prerequisites
+----
+VirtualBox and Vagrant
+
+Installation
+----
+Clone or unzip the repository. Run ```vagrant up``` from the command line.
